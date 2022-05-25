@@ -1,8 +1,8 @@
 # DATA_BASE
-Creation de Base de données  relatonnelles pour la location de CD
+Creation d'une Base de données  relatonnelles pour la location de CD
  Quelques requêtes SQL 
  
- Requete pour la table clients Film
+ Requete pour la table Film
  
  Ajouter un film
  
